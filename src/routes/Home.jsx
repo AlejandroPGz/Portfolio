@@ -92,10 +92,10 @@ export const Home = () => {
           <div className="basis-1/3 flex flex-1 flex-col justify-center items-center gap-1">
               <img
                 className="rounded-lg object-cover w-full md:w-80 h-48"
-                src='/ferre.png'
+                src='/ss.svg'
               />
               <p className='text-xl underline decoration-dashed underline-offset-4 font-medium text-gray-800  dark:text-white'>E Commerce Ferreteria</p>
-              <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Live Website</a>
+              {/* <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Live Website</a> */}
               <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Github</a>
 
             </div>
@@ -105,7 +105,7 @@ export const Home = () => {
                 src='/api.svg'
               />
               <p className='text-xl underline decoration-dashed underline-offset-4 font-medium text-gray-800  dark:text-white'>Venezuela Wiki Api</p>
-              <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Live Website</a>
+              <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="https://venezuela-api-page.onrender.com">Live Website</a>
               <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Github</a>
             </div>
             <div className="basis-1/3 flex flex-1 flex-col justify-center items-center gap-1">
@@ -114,7 +114,7 @@ export const Home = () => {
                 src='/clima.svg'
               />
               <p className='text-xl underline decoration-dashed underline-offset-4 font-medium text-gray-800  dark:text-white'>Country App Guide</p>
-              <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Live Website</a>
+              <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="https://country-app-react-3jcq.onrender.com">Live Website</a>
               <a className='text-lg font-medium text-gray-800 cursor-pointer dark:text-white' href="">Github</a>
 
             </div>
